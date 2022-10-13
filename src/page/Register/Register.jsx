@@ -101,9 +101,9 @@ const Register = () => {
   return (
     <>
       <Loading />
-      <div className='md:flex-row flex h-screen'>
+      <div className='md:flex h-screen'>
         <div className='bg-[#f6f7fb] h-full w-full'>
-          <div className='flex flex-col justify-center items-center w-full max-w-[640px] m-auto pt-[150px]'>
+          <div className='flex flex-col justify-center items-center w-full max-w-[640px] m-auto pt-[50px] md:pt-[150px]'>
             <div className='flex items-center gap-1 mb-[50px]'>
               <img
                 src={mercuryLogo}
@@ -274,7 +274,7 @@ const Register = () => {
             </div>
           </div>
         </div>
-        <div className='bg-[#110826] h-full w-full' />
+        <div className='bg-[#110826] h-full w-full hidden md:block' />
       </div>
     </>
   )
