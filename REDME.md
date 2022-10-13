@@ -1,4 +1,4 @@
-#MERCURY CASH
+# MERCURY CASH
 
 Se han implementado las siguientes tecnologías con el fin de satisfacer los requerimientos solicitados; ViteJS, ReactJS, TailwindCSS, SASS, Json Server, Redux. Todas estas cumplieron un papel importante en el desarrollo de esta prueba, logrando asi cumplir los requerimientos y mis habilidades como desarrollador FrontEnd
 
@@ -14,7 +14,7 @@ Características
 
 * Redux Toolkit: Me permitió realizar las peticiones de mi fake api, logrando asi usar sus respuestas en cualquier parte del proyecto.
 
-#Documentación de las tecnologías implementadas
+# Documentación de las tecnologías implementadas
 
 -  [Vite](https://vitejs.dev/)
 -  [ReactJs](https://es.reactjs.org/)
@@ -24,14 +24,14 @@ Características
 
 
 
-#Instalación del proyecto
+# Instalación del proyecto
 
 - Se requiere tener instalado [NodeJS](https://nodejs.org/) v10+
 - Se requiere tener instalado [Git](https://git-scm.com/)
 - Clonar el repositorio con el comando git clone
 
 
-#Guía para inicializar el proyecto
+# Guía para inicializar el proyecto
 
     ```sh
     cd MercuryCash
