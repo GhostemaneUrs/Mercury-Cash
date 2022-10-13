@@ -1,15 +1,5 @@
 {
-  "usuarios": [
-    {
-      "email": "JaramilloG1999@gmail.com",
-      "country": 1,
-      "password": "Nicolasandres1",
-      "terms": true,
-      "language": "English",
-      "confirmPassword": "Nicolasandres1",
-      "id": 1
-    }
-  ],
+  "usuarios": [],
   "paises": [
     {
       "id": 1,
