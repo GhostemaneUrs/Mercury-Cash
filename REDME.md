@@ -14,15 +14,6 @@ Características
 
 * Redux Toolkit: Me permitió realizar las peticiones de mi fake api, logrando asi usar sus respuestas en cualquier parte del proyecto.
 
-# Documentación de las tecnologías implementadas
-
--  [Vite](https://vitejs.dev/)
--  [ReactJs](https://es.reactjs.org/)
--  [Tailwindcss](https://tailwindcss.com/docs)
--  [JSON Server](https://github.com/typicode/json-server)
--  [Redux Toolkit](https://redux-toolkit.js.org/)
-
-
 
 # Instalación del proyecto
 
@@ -39,3 +30,10 @@ Características
     npm run dev para iniciar el proyecto en ViteJS 😎
     npm run server para iniciar nuestra fake api con JSON Server 💪
     ```
+# Documentación de las tecnologías implementadas
+
+-  [Vite](https://vitejs.dev/)
+-  [ReactJs](https://es.reactjs.org/)
+-  [Tailwindcss](https://tailwindcss.com/docs)
+-  [JSON Server](https://github.com/typicode/json-server)
+-  [Redux Toolkit](https://redux-toolkit.js.org/)
