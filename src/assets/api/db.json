@@ -1,0 +1,45 @@
+{
+  "usuarios": [
+    {
+      "email": "JaramilloG1999@gmail.com",
+      "country": 1,
+      "password": "Nicolasandres1",
+      "terms": true,
+      "language": "English",
+      "confirmPassword": "Nicolasandres1",
+      "id": 1
+    }
+  ],
+  "paises": [
+    {
+      "id": 1,
+      "name": "United States",
+      "code": "US"
+    },
+    {
+      "id": 2,
+      "name": "Canada",
+      "code": "CA"
+    },
+    {
+      "id": 3,
+      "name": "Mexico",
+      "code": "MX"
+    },
+    {
+      "id": 4,
+      "name": "Colombia",
+      "code": "CO"
+    },
+    {
+      "id": 5,
+      "name": "Argentina",
+      "code": "AR"
+    },
+    {
+      "id": 6,
+      "name": "Brazil",
+      "code": "BR"
+    }
+  ]
+}
