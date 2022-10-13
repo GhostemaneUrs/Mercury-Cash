@@ -1,0 +1,22 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'GS-Static';
+  src: url('./../assets/fonts/GS-Static/gstatic.woff2') format('woff2');
+}
+
+body {
+  margin: 0;
+  font-family: 'GS-Static';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container-1440 {
+  width: 100%;
+  padding: 1rem;
+  margin: 0 auto;
+  max-width: 1440px;
+}
