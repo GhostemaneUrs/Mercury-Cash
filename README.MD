@@ -1,4 +1,4 @@
-# MERCURY CASH
+# TEST MERCURY CASH
 
 Se han implementado las siguientes tecnologías con el fin de satisfacer los requerimientos solicitados; ViteJS, ReactJS, TailwindCSS, SASS, Json Server, Redux. Todas estas cumplieron un papel importante en el desarrollo de esta prueba, logrando asi cumplir los requerimientos y mis habilidades como desarrollador FrontEnd
 
